@@ -1,2 +1,2 @@
 # Webscraping_Tannico
-Webscraping of the Tannico wine e-commerce using Selenium library on Python. In the repository the extraction of data on red wines from Veneto. Area of analysis requested by the customer.
+Webscraping of the SignorVino wine e-commerce website using Selenium library on Python. The data extraction was performed using Selenium
