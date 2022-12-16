@@ -8,3 +8,4 @@ The output after running the code is composed by 5 Excell files:
   - Fifth file: The dataset is composed by all the article present in the previous point
 
 The code should run is less than 5 minutes if you are using an average laptop.
+Selenium is used for educational purposes, scraping static pages such as the one used for the project can be done more easily with the simpler library Beautiful Soup.
