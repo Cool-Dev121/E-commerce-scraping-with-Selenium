@@ -13,9 +13,13 @@ You will also need to download and install the appropriate web driver for your b
 To use this tool, simply run the webscraper.py script. The output will be five Excel files containing data on the different types of wines available on the website:
 
 red_wines.xlsx: Only red wines
+
 white_wines.xlsx: Only white wines
+
 sparkling_wines.xlsx: Only sparkling wines
+
 sweet_wines.xlsx: Only sweet wines
+
 all_wines.xlsx: All wines
 
 # Info
